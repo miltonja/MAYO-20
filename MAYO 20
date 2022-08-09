@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/ZnhmRj8W/Win-Sports2017.png",Win Sports
 http://190.60.37.69:8015/play/a049/index.m3u8
-#EXTINF:-1 tvg-id="AEMundo",AE Mundo
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.postimg.cc/jSkL50LC/A-E.png",AE Mundo
 http://190.60.37.69:8015/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="AXN",AXN
 http://190.60.37.69:8015/play/a045/index.m3u8
@@ -9,11 +9,11 @@ http://190.60.37.69:8015/play/a045/index.m3u8
 http://190.60.37.69:8015/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst",BabyFirst
 http://190.60.37.69:8015/play/a00v/index.m3u8
-#EXTINF:-1 tvg-id="CNNEspanol",CNN Espanol
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://i.postimg.cc/tR24fG0T/CNN-INTERNACIONAL.png",CNN Espanol
 http://190.60.37.69:8015/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="CanalCaracol",Canal Caracol
 http://190.60.37.69:8015/play/a02y/index.m3u8
-#EXTINF:-1 tvg-id="CanalEstrellas",Canal Estrellas
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.postimg.cc/76HKQ27f/CANAL-DE-LAS-ESTRELLAS.png",Canal Estrellas
 http://190.60.37.69:8015/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="Canal_Institucional",Canal Institucional
 http://190.60.37.69:8015/play/a032/index.m3u8
