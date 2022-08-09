@@ -43,17 +43,17 @@ http://190.60.37.69:8015/play/a00y/index.m3u8
 http://190.60.37.69:8015/play/a04g/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel",Disney Channel
 http://190.60.37.69:8015/play/a01j/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJr",Disney Jr
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.postimg.cc/W4SGnbp8/Disney-Junior-Logo.png",Disney Jr
 http://190.60.37.69:8015/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="E-Entertainment",E Entertainment
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://x.playerlatino.live/e.png",E Entertainment
 http://190.60.37.69:8015/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2",ESPN 2
 http://190.60.37.69:8015/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3",ESPN 3
 http://190.60.37.69:8015/play/a04i/index.m3u8
-#EXTINF:-1 tvg-id="ESPN4",ESPN 4
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/yxBnSS6V/ESPN-4-International.png",ESPN 4
 http://190.60.37.69:8015/play/a02n/index.m3u8
-#EXTINF:-1 tvg-id="ESPN-CO",ESPN CO
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/d1Vk0fG5/ESPN2.png",ESPN CO
 http://190.60.37.69:8015/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="Enlace",Enlace
 http://190.60.37.69:8015/play/a00t/index.m3u8
