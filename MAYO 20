@@ -31,7 +31,7 @@ http://190.60.37.69:8015/play/a00g/index.m3u8
 http://190.60.37.69:8015/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="CityTv",City TV
 http://190.60.37.69:8015/play/a03d/index.m3u8
-#EXTINF:-1,Claro Cinema
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.postimg.cc/WpFKYQRj/CLARO-CINEMA.png",Claro Cinema
 http://190.60.37.69:8015/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel",Discovery Channel
 http://190.60.37.69:8015/play/a01k/index.m3u8
