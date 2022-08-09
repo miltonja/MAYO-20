@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/ZnhmRj8W/Win-Sports2017.png",Win Sports
+http://190.60.37.69:8015/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="AEMundo",AE Mundo
 http://190.60.37.69:8015/play/a01u/index.m3u8
 #EXTINF:-1 tvg-id="AXN",AXN
@@ -113,7 +115,5 @@ http://190.60.37.69:8015/play/a04a/index.m3u8
 http://190.60.37.69:8015/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="Warner",Warner
 http://190.60.37.69:8015/play/a01m/index.m3u8
-#EXTINF:-1 tvg-id="WinSport",Win
-http://190.60.37.69:8015/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="Zoom",Zoom
 http://190.60.37.69:8015/play/a03a/index.m3u8
